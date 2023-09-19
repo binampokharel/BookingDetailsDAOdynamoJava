@@ -1,0 +1,4 @@
+org\booking\entities\AppointmentSegmentDetails.class
+org\booking\entities\BookingDetails.class
+org\booking\handler\SaveBookingDetailsHandler.class
+org\booking\DTO\ResponseDTO.class
